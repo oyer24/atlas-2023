@@ -1,0 +1,68 @@
+{
+	"id": -1,
+	"name": "The languages of Switzerland",
+	"description": "The flags of the four languages of Switzerland: French, German, Italian and Romansh, with the word to say \"Hi\"",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Languages_of_Switzerland"
+		]
+	},
+	"path": {
+		"": [
+			[
+				1408,
+				-722
+			],
+			[
+				1392,
+				-707
+			],
+			[
+				1393,
+				-687
+			],
+			[
+				1410,
+				-673
+			],
+			[
+				1430,
+				-673
+			],
+			[
+				1442,
+				-690
+			],
+			[
+				1442,
+				-708
+			],
+			[
+				1423,
+				-723
+			],
+			[
+				1423,
+				-723
+			],
+			[
+				1419,
+				-723
+			],
+			[
+				1419,
+				-723
+			],
+			[
+				1419,
+				-723
+			]
+		]
+	},
+	"center": {
+		"": [
+			1417,
+			-698
+		]
+	}
+}
